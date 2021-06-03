@@ -1,4 +1,3 @@
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 <p align="center">
   <img src="https://telegra.ph/file/2650ab7abafde71c18dd8.jpg">
 </p>
@@ -12,6 +11,7 @@
 # Table of Content
 - [WHAT IS THIS REPO ABOUT ?](#what-is-this-repo-about)
 - [FEATURES](#features)
+- [Heroku](#heroku)
 - [BOT COMMANDS](#bot-commands)
 - [CREDITS](#credits-)
 - [POINTS TO BE NOTED](#points-to-be-noted)
@@ -28,6 +28,12 @@ This is a telegram bot writen with pyrogram for leeching files on the internet t
 - Upload as zip, streamable, document.
 - Can List All your Ongoing Leeches.
 - Docker support.
+
+
+# HEROKU 
+click the button and
+Enter the valus
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Bot Commands
 
