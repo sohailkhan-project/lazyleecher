@@ -88,6 +88,7 @@ testwatermark
 ## Credits 📍
 
 [@TheKneesocks](https://t.me/TheKneesocks)
+[@request_ayush](t.me/request_ayush)
 
 ## Points To Be Noted 
 
