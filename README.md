@@ -88,10 +88,10 @@ testwatermark
 ## Credits 📍
 
 [@TheKneesocks](https://t.me/TheKneesocks)
-for creating this repo
+created this repo
 
 [@request_ayush](https://t.me/request_ayush)
-for adding support for heroku (which was allredy working on heroku, but there was no docs for heroku deployment) 
+added docker file and app json so that it will work one heroku
 
 ## Points To Be Noted 
 
